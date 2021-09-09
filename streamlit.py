@@ -25,7 +25,7 @@ we are able to create a similar metric based on your dataset before employing th
 st.header('Sample of the data')
 
 #reading in the data
-@st.cache(allow_output_mutation=True)
+
 def data_reader(path_full,path_clean):
     df = pd.read_csv(path_full)
     clean_df = pd.read_csv(path_clean,index_col=0)
