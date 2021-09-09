@@ -76,7 +76,7 @@ chosen_one_index = chosen_one.index
 
 st.dataframe(chosen_one)
 actual =chosen_one.Success_probability
-form = st.form('My_form')
+
 
 c1,c2,c3= st.columns((1,1,1))
 with c1:
