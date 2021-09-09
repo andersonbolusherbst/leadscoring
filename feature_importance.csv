@@ -1,0 +1,225 @@
+,Feature Importance
+cat_transformer__x0_Apparel Retail,0.0
+cat_transformer__x0_Architecture/Engineering,0.0
+cat_transformer__x0_Associations,0.0
+cat_transformer__x0_Automotive/Transportation,0.0
+cat_transformer__x0_Banks,0.0
+cat_transformer__x0_BioTech/Drugs,0.0
+cat_transformer__x0_Biotech/Healthcare,0.0
+cat_transformer__x0_Construction Services,0.0
+cat_transformer__x0_Education/Training,0.0
+cat_transformer__x0_Electronics,0.0
+cat_transformer__x0_Financial Services,0.0
+cat_transformer__x0_Food Processing,0.0
+cat_transformer__x0_Health/Accident,0.0
+cat_transformer__x0_Healthcare Facilities/Services,0.0
+cat_transformer__x0_Hospitals/Clinics,0.0
+cat_transformer__x0_Hotels/Motels,0.0
+cat_transformer__x0_Industrial Equip,0.0
+cat_transformer__x0_Insurance,0.0
+cat_transformer__x0_Investment Bank/Brokerage,0.0
+cat_transformer__x0_Lending/Mortgage,0.0
+cat_transformer__x0_Materials/Manufacturing,0.0
+cat_transformer__x0_Medical Equipment,0.0
+cat_transformer__x0_Non-Profit,0.0
+"cat_transformer__x0_Oil, Gas, Coal",0.0
+cat_transformer__x0_Online Banking,0.0
+cat_transformer__x0_Other,0.0
+cat_transformer__x0_Other Biz Services,0.0
+cat_transformer__x0_Other Investment Firms,0.0
+cat_transformer__x0_Personal/Household Products,0.0
+cat_transformer__x0_REIT,0.0
+cat_transformer__x0_Real Estate,0.0
+cat_transformer__x0_Restaurants,0.0
+cat_transformer__x0_Sales/Marketing Services,0.0
+cat_transformer__x0_Semiconductors,0.0
+cat_transformer__x0_Service Providers,0.0
+cat_transformer__x0_Services,0.0
+cat_transformer__x0_Software,0.0
+cat_transformer__x0_Staffing,0.0
+cat_transformer__x0_Technology Consulting,0.0
+cat_transformer__x0_Trucking,0.0
+cat_transformer__x1_Product_1,0.0
+cat_transformer__x1_Product_2,0.0
+cat_transformer__x2_100 - 500 Million,0.0
+cat_transformer__x2_50 - 100 Million,0.003404799348377576
+cat_transformer__x2_500 Million - 1 Billion,0.020675129026315155
+cat_transformer__x3_Category 1,0.04358415380021337
+cat_transformer__x3_Category 2,0.012167641983189774
+cat_transformer__x3_Category 3,0.004934800322942774
+cat_transformer__x3_Category 4,0.008361817298594938
+cat_transformer__x4_AL,0.0
+cat_transformer__x4_AR,0.0
+cat_transformer__x4_AZ,0.0
+cat_transformer__x4_Aligarh,0.0
+cat_transformer__x4_Aurangabad,0.0
+cat_transformer__x4_CA,0.0
+cat_transformer__x4_CO,0.0
+cat_transformer__x4_CT,0.0
+cat_transformer__x4_FL,0.0
+cat_transformer__x4_Faridabad,0.0
+cat_transformer__x4_GA,0.0
+cat_transformer__x4_HI,0.0
+cat_transformer__x4_Hisar,0.0
+cat_transformer__x4_IA,0.0
+cat_transformer__x4_ID,0.0
+cat_transformer__x4_IL,0.0
+cat_transformer__x4_IN,0.0
+cat_transformer__x4_KS,0.0
+cat_transformer__x4_KY,0.0
+cat_transformer__x4_LA,0.0
+cat_transformer__x4_MA,0.0
+cat_transformer__x4_ME,0.0
+cat_transformer__x4_MI,0.0
+cat_transformer__x4_MN,0.0
+cat_transformer__x4_MO,0.0
+cat_transformer__x4_MS,0.0
+cat_transformer__x4_Machilipatnam,0.0
+cat_transformer__x4_NC,0.0
+cat_transformer__x4_NJ,0.0
+cat_transformer__x4_NM,0.0
+cat_transformer__x4_NV,0.0
+cat_transformer__x4_NY,0.0
+cat_transformer__x4_OH,0.0
+cat_transformer__x4_OK,0.0
+cat_transformer__x4_OR,0.0
+cat_transformer__x4_Other,3.282792015072824e-05
+cat_transformer__x4_PA,0.0
+cat_transformer__x4_Patna,0.0
+cat_transformer__x4_Puri,0.0
+cat_transformer__x4_Raipur,0.0
+cat_transformer__x4_SC,0.0
+cat_transformer__x4_SD,0.0
+cat_transformer__x4_Saidapur,0.0
+cat_transformer__x4_TN,0.0
+cat_transformer__x4_TX,0.0
+cat_transformer__x4_UT,0.0
+cat_transformer__x4_VA,0.0
+cat_transformer__x4_Valparai,0.0
+cat_transformer__x4_WA,0.0
+cat_transformer__x4_WI,0.0
+cat_transformer__x4_WV,0.0
+cat_transformer__x5_India,0.3038215867501658
+cat_transformer__x5_USA,0.1814423437448727
+cat_transformer__x6_Advertising account executive,0.0
+cat_transformer__x6_Amenity horticulturist,0.0
+cat_transformer__x6_Applications developer,0.0
+cat_transformer__x6_Armed forces technical officer,0.0
+cat_transformer__x6_Bonds trader,0.0
+cat_transformer__x6_Charity officer,0.0
+cat_transformer__x6_Chief Executive Officer,0.0
+cat_transformer__x6_Chief Marketing Officer,0.0
+cat_transformer__x6_Civil Service fast streamer,0.0
+"cat_transformer__x6_Civil engineer, contracting",0.0
+cat_transformer__x6_Commercial art gallery manager,0.0
+cat_transformer__x6_Community arts worker,0.0
+cat_transformer__x6_Control and instrumentation engineer,0.0
+"cat_transformer__x6_Designer, blown glass/stained glass",0.0
+"cat_transformer__x6_Designer, multimedia",0.0
+"cat_transformer__x6_Education officer, environmental",0.0
+"cat_transformer__x6_Education officer, museum",0.0
+"cat_transformer__x6_Engineer, building services",0.0
+"cat_transformer__x6_Engineer, drilling",0.0
+"cat_transformer__x6_Engineer, electronics",0.0
+"cat_transformer__x6_Engineer, technical sales",0.0
+cat_transformer__x6_Exhibition designer,0.0
+cat_transformer__x6_Film/video editor,0.0
+cat_transformer__x6_Firefighter,0.0
+cat_transformer__x6_Geoscientist,0.0
+cat_transformer__x6_Health service manager,0.0
+cat_transformer__x6_Higher education lecturer,0.0
+cat_transformer__x6_Insurance underwriter,0.0
+"cat_transformer__x6_Lighting technician, broadcasting/film/video",0.0
+cat_transformer__x6_Lobbyist,0.0
+cat_transformer__x6_Multimedia specialist,0.0
+cat_transformer__x6_Musician,0.0
+cat_transformer__x6_Network engineer,0.0
+cat_transformer__x6_Orthoptist,0.0
+cat_transformer__x6_Osteopath,0.0
+cat_transformer__x6_Other,0.0
+"cat_transformer__x6_Physicist, medical",0.0
+cat_transformer__x6_Podiatrist,0.0
+cat_transformer__x6_Psychiatric nurse,0.0
+cat_transformer__x6_Public relations account executive,0.0
+cat_transformer__x6_Radio broadcast assistant,0.0
+cat_transformer__x6_Recruitment consultant,0.0
+"cat_transformer__x6_Research officer, government",0.0
+"cat_transformer__x6_Scientist, product/process development",0.0
+"cat_transformer__x6_Scientist, research (maths)",0.0
+cat_transformer__x6_Sports coach,0.0
+cat_transformer__x6_Television floor manager,0.0
+cat_transformer__x6_Therapeutic radiographer,0.0
+"cat_transformer__x6_Therapist, speech and language",0.0
+cat_transformer__x6_Town planner,0.0
+cat_transformer__x6_Water engineer,0.0
+cat_transformer__x7_Contact Email,0.03995428380220012
+cat_transformer__x7_Marketing Event,0.015247529281343583
+cat_transformer__x7_Others,0.008806296331539348
+cat_transformer__x7_Website,0.016451315814838913
+cat_transformer__x8_Level 1,0.03701169371625221
+cat_transformer__x8_Level 2,0.0
+cat_transformer__x8_Level 3,0.09502921079632878
+"cat_transformer__x9_Abdul-Hamid,Saud Muhamad",0.0
+"cat_transformer__x9_Ali,Mohamed",0.0
+"cat_transformer__x9_Anthony,Katherine D",0.0
+"cat_transformer__x9_Bannister,Joan",0.0
+"cat_transformer__x9_Booker,David L",0.0
+"cat_transformer__x9_Brown,Maxine A",0.0
+"cat_transformer__x9_Carter Sr,Clifton E",0.0
+"cat_transformer__x9_Cash,Tyrone J",0.0
+"cat_transformer__x9_Cashin,Marc C",0.0
+"cat_transformer__x9_Charles,Caleb",0.0
+"cat_transformer__x9_Clavey,Therese A",0.0
+"cat_transformer__x9_Davis,Brian R",0.0
+"cat_transformer__x9_Davis,Sharrice A",0.0
+"cat_transformer__x9_Dimattia,Frank D",0.0
+"cat_transformer__x9_Dunaway,Antoine",0.0
+"cat_transformer__x9_Dyson,William A",0.0
+"cat_transformer__x9_Featherstone,Adrian R",0.0
+"cat_transformer__x9_Gaskins Jr,Franklin D",0.0
+"cat_transformer__x9_Georgakopoulos,Vasilios T",0.0
+"cat_transformer__x9_Gilley,Janine",0.0
+"cat_transformer__x9_Gould,Lisa D",0.0
+"cat_transformer__x9_Green,Ann E",0.0
+"cat_transformer__x9_Green,Candy",0.0
+"cat_transformer__x9_Hameier,Kurt E",0.0
+"cat_transformer__x9_Hanyok,John J",0.0
+"cat_transformer__x9_Hebron,Artenia D",0.0
+"cat_transformer__x9_Heidelberg,Andre D",0.0
+"cat_transformer__x9_Himes,Maurice C",0.0
+"cat_transformer__x9_Houston,Arnold E",0.0
+"cat_transformer__x9_Irizarry,Yolanda",0.0
+"cat_transformer__x9_Jones,Eyvette W",0.0
+"cat_transformer__x9_Jones,Michael L",0.0
+"cat_transformer__x9_Kiepea,Prince A",0.0
+"cat_transformer__x9_Knox,Antonio D",0.0
+"cat_transformer__x9_Leu,Darren L",0.0
+"cat_transformer__x9_Logan,Kevin N",0.0
+"cat_transformer__x9_Mabrey,Kevin C",0.0
+"cat_transformer__x9_Maine,John P",0.0
+"cat_transformer__x9_Massiah,Gerard F",0.0
+"cat_transformer__x9_McKenstry,Loretta A",0.0
+"cat_transformer__x9_Meli,Teresa V",0.0
+"cat_transformer__x9_Moran,Natalie A",0.0
+"cat_transformer__x9_Morsy,Omar A",0.0
+"cat_transformer__x9_Murray,Younetta",0.0
+"cat_transformer__x9_Pappas,Mark S",0.0
+"cat_transformer__x9_Robinson,John C",0.0
+"cat_transformer__x9_Rocks,Michael J",0.0
+"cat_transformer__x9_Ross,Eric L",0.0
+"cat_transformer__x9_Ryker,David",0.0
+"cat_transformer__x9_Salyers,Daniel L",0.0
+"cat_transformer__x9_Shelton,Sidney P",0.0
+"cat_transformer__x9_Smith,Keenan H",0.0
+"cat_transformer__x9_Sutton,Michelle R",0.0
+"cat_transformer__x9_Thomas,Lori E",0.0
+"cat_transformer__x9_Tondeur,Keith D",0.0
+"cat_transformer__x9_Turner,Marlon D",0.0
+"cat_transformer__x9_Ullrich,Rose Anne",0.0
+"cat_transformer__x9_Van Arter,Derrick",0.0
+"cat_transformer__x9_Vickers Jr.,Henry J",0.0
+"cat_transformer__x9_Young,Valerie K",0.0
+num_transformer__Deal_value,0.03614494812189703
+Internal_rating,0.1729296219407773
+Year_of_creation,0.0
+Month_of_creation,0.0
