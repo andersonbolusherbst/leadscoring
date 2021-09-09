@@ -48,7 +48,7 @@ loaded_model = pickle.load(open(filename, 'rb'))
 
 st.header('What features were most important for our model? ')
 feature_importance = pd.read_csv('feature_importance.csv',index_col=0)
-feature_importance.index = [x.removeprefix('cat_transformer__x') for x in feature_importance.index]
+
 
 plot_imp = feature_importance.sort_values(by = 'Feature Importance',ascending=False).head(10)
 fig, ax = plt.subplots()
